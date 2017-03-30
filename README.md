@@ -1,1 +1,5 @@
-# clue
+
+# Clue: Period and Ovulation Tracker
+Problem Definition: Modeling Approach
+Clue is a leading start-up working to help women track and understand patterns in their menstrual cycle. Clue provided menstrual cycle and symptom data, which is fully anonymized using WATTx’s Statice platform in order to ensure users’ privacy. The aim is to make sense of the data and build a prediction model for those symptoms. We want to help people understand what's coming by telling them what they'll experience next and help them spot underlying patterns they might not recognize.
+In order to model this dataset, I think that there is an important balance between a user's personal history of symptoms and the symptom trends seen across the population. I also think that it would be useful for understand how the predictions are being made. In the optimal situation, a user would track every symptom they notice on every day of their period cycle. We saw that most users are only tracking symptoms during the first week of their cycle. This makes it more difficult to accurately predict what a user may experience during the rest of the cycle using an empirical approach.
